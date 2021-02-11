@@ -1,0 +1,19 @@
+{
+  "name": "e3_modul6_cms",
+  "version": "1.0.0",
+  "description": "exercise_3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "togi",
+  "license": "ISC",
+  "dependencies": {
+    "currency-formatter": "^1.5.6",
+    "ejs": "^3.1.5",
+    "exports": "0.0.1",
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.18.1"
+  }
+}
